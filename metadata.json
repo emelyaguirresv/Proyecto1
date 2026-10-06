@@ -1,0 +1,6 @@
+{
+  "name": "Agua Justa",
+  "description": "App para quien paga el recibo: registra el consumo en litros, barriles o pilas, calcula el promedio y total mensual, y avisa sobreconsumos mayores al 30%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
